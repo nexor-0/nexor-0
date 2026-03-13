@@ -47,7 +47,7 @@ Chaque projet perso que je lance, c'est une nouvelle aventure : un problème à 
 
 ## 🌱 En ce moment
 
-- 🔨 En train de construire **[Edumanger](https://nexor-0.github.com/Edumanger/)**
+- 🔨 En train de construire **[Edumanger](https://nexor-0.github.io/Edumanger/)**
 - 📖 En train d'explorer **[les automatisations avec n8n /Et Laravel]**
 - 💬 Toujours partant pour parler web, architecture front, ou bonnes pratiques
 
