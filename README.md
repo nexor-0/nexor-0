@@ -1,4 +1,4 @@
-# Hey, moi c'est **[TonPseudo]** 👋🔥
+# Hey, moi c'est **Pape Djibril Ndiaye** 👋🔥
 
 > *"Je ne code pas juste pour que ça marche — je code pour que ça soit beau, rapide, et utile."*
 
@@ -38,9 +38,9 @@ Chaque projet perso que je lance, c'est une nouvelle aventure : un problème à 
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nexor-0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexor-0&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
@@ -48,15 +48,15 @@ Chaque projet perso que je lance, c'est une nouvelle aventure : un problème à 
 ## 🌱 En ce moment
 
 - 🔨 En train de construire **[nom de ton projet en cours]**
-- 📖 En train d'explorer **[une techno / concept qui t'intéresse]**
+- 📖 En train d'explorer **[les automatisations avec n8n /Et Laravel]**
 - 💬 Toujours partant pour parler web, architecture front, ou bonnes pratiques
 
 ---
 
 ## 📬 Me retrouver
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TonPseudo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TonPseudo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexor-0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nexor-0-7a39b83b2)
 
 ---
 
