@@ -47,7 +47,7 @@ Chaque projet perso que je lance, c'est une nouvelle aventure : un problème à 
 
 ## 🌱 En ce moment
 
-- 🔨 En train de construire **[nom de ton projet en cours]**
+- 🔨 En train de construire **[Edumanger](https://nexor-0.github.com/Edumanger/)**
 - 📖 En train d'explorer **[les automatisations avec n8n /Et Laravel]**
 - 💬 Toujours partant pour parler web, architecture front, ou bonnes pratiques
 
@@ -56,7 +56,7 @@ Chaque projet perso que je lance, c'est une nouvelle aventure : un problème à 
 ## 📬 Me retrouver
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexor-0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nexor-0-7a39b83b2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nexor-0-7a39b83b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
