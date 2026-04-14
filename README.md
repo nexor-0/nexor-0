@@ -56,7 +56,7 @@ rule #1  : don't trust — verify
 ---
 
 <p align="center">
-  <img src="https:https://github.com/account/api?username=nexor-0&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=aaaaaa&hide_title=true" />
+  <img src="https://avatars.githubusercontent.com/u/220437545?v=4/api?username=nexor-0&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=aaaaaa&hide_title=true" />
 </p>
 
 ---
