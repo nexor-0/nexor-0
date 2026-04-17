@@ -13,5 +13,5 @@ technology and building the future through code.
 
 ## Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Mon%20Site-blue?style=flat-square&logo=globe)](https://VOTRE-LIEN-ICI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Mon%20Site-blue?style=flat-square&logo=globe)](https://nexor-0.github.io/my-portfolio/)
 [![Email](https://img.shields.io/badge/Email-nexoragency0@gmail.com-red?style=flat-square&logo=gmail)](mailto:nexoragency0@gmail.com)
