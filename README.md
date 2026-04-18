@@ -1,4 +1,4 @@
-# Hi there, I'm Papae Djibril Ndiaye 👋
+# Hi there, I'm Pape Djibril Ndiaye 👋
 
 ## About Me
 
